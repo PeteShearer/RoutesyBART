@@ -1,0 +1,5 @@
+/Users/pshearer/Documents/RoutesyBART/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+/Users/pshearer/Documents/RoutesyBART/Classes/RootViewController.m:131: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)
+/Users/pshearer/Documents/RoutesyBART/Classes/RootViewController.m: At top level:
+/Users/pshearer/Documents/RoutesyBART/Classes/RootViewController.m:189: warning: property 'predictionController' requires method '-predictionController' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pshearer/Documents/RoutesyBART/Classes/RootViewController.m:189: warning: property 'predictionController' requires the method 'setPredictionController:' to be defined - use @synthesize, @dynamic or provide a method implementation
